@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About color-bud
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a web-based application designed to assist users in exploring and generating a variety of color palettes. Whether you're a designer, artist, or anyone seeking inspiration for color combinations, this tool offers an intuitive way to discover and experiment with colors.
 
 ## Available Scripts
 
